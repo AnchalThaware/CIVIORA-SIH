@@ -1,0 +1,6 @@
+file '/app/applet/temp_video_build/voice_norm_1.wav'
+file '/app/applet/temp_video_build/voice_norm_2.wav'
+file '/app/applet/temp_video_build/voice_norm_3.wav'
+file '/app/applet/temp_video_build/voice_norm_4.wav'
+file '/app/applet/temp_video_build/voice_norm_5.wav'
+file '/app/applet/temp_video_build/voice_norm_6.wav'

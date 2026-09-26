@@ -1,0 +1,18 @@
+<svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="24" cy="24" r="22" fill="#ECFDF5" stroke="#10B981" stroke-width="1.5" />
+  <defs>
+    <linearGradient id="civicGrad" x1="6" y1="6" x2="42" y2="42" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10B981" />
+      <stop offset="0.5" stop-color="#059669" />
+      <stop offset="1" stop-color="#047857" />
+    </linearGradient>
+    <linearGradient id="leafGrad" x1="16" y1="12" x2="36" y2="34" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#34D399" />
+      <stop offset="1" stop-color="#059669" />
+    </linearGradient>
+  </defs>
+  <path d="M24 8C15.163 8 8 15.163 8 24C8 32.837 15.163 40 24 40C32.837 40 40 32.837 40 24C40 15.163 32.837 8 24 8ZM24 12C28.418 12 32.167 14.385 34.225 17.935C31.545 16.697 28.528 16 25.333 16C17.97 16 12 21.97 12 29.333C12 32.528 12.697 35.545 13.935 38.225C10.385 36.167 8 32.418 8 28C8 19.163 15.163 12 24 12Z" fill="url(#civicGrad)" />
+  <path d="M22 14C22 14 34 16 36 28C36 34 31 38 25 38C19 38 16 33 16 28C16 22 22 14 22 14Z" fill="url(#leafGrad)" />
+  <path d="M23 20C23 20 28 26 27 33" stroke="#ffffff" stroke-width="2" stroke-linecap="round" />
+  <circle cx="28" cy="22" r="2.5" fill="#ffffff" />
+</svg>
